@@ -1,0 +1,20 @@
+/*Comentário em CSS
+Seletor de elementos - linha 4
+*/
+h1{
+ color: navy;
+}
+/*Seletor de ID */
+#xuxu{
+    background-color: rgba(116, 115, 115, 0.384);
+}
+/*Seletor de classe*/
+/*Afeta todos os elementos da classe estiloso*/
+.estiloso{
+    border-style: solid;
+}
+/* Afeta apens os p da classe centraliza*/
+
+p.centraliza{
+    text-align: center;
+}
